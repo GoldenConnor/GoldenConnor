@@ -22,9 +22,9 @@
 
 - [CompTIA A+](http://verify.CompTIA.org) Verification Code: LWR2CRZ5PJR419S3
 - [CompTIA Network +](http://verify.CompTIA.org) Verification Code: NWK36R85FJV4Q85Z
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [CompTIA Security +](http://verify.CompTIA.org) Verification Code: 7JV0D1DQ3MRQ1NK2
+- [Amazon Cloud Practitioner](https://aws.amazon.com/verification) Verification Code: 6902211CWM441Y90
+
 
 <h2> 🤳 Connect with me:</h2>
 

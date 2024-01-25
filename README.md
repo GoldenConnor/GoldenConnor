@@ -1,8 +1,7 @@
 <h1>Hi, I'm Golden ! <br/><a href="https://github.com/GoldenConnor", <a href="https://www.linkedin.com/in/golden-connor/">Cybersecurity Professional</a>
 
-<h2>👨‍💻 IT Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>PowerShell</b>
   - [Autopsy Digital Forensics](https://github.com/GoldenConnor/Autopsy)
   - [JWipe (Disk Wiping Utility)](https://github.com/GoldenConnor/JWipe-Disk-Sanitation)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)

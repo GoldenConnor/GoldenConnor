@@ -12,10 +12,17 @@
   <li><a href="https://github.com/GoldenConnor/Autopsy">Autopsy 64 Digital Forensics</a> - A powerful tool for investigating digital crime scenes.</li>
   <li><a href="https://github.com/GoldenConnor/JWipe-Disk-Sanitation">JWipe (Disk Wiping Utility)</a> - Secure data deletion and disk sanitation made simple.</li>
   <li><a href="https://github.com/GoldenConnor/Windows-10-Vulnerability-Management">Windows 10 Tenable Vulnerability Management</a> - A comprehensive guide to securing Windows 10 environments.</li>
-  <li><a href="https://github.com/GoldenConnor/Integrity-FIM">FIM (File Integrity Monitor)</a> - File Integrity Monitoring (FIM) to track and alert changes to critical system files.</li>
+  <li><a href="https://github.com/GoldenConnor/Integrity-FIM">Integrity-FIM</a> - File Integrity Monitoring (FIM) to track and alert changes to critical system files.</li>
+</ul>
+
+<h2>🐍 Python Projects:</h2>
+<ul>
+  <li><a href="https://github.com/GoldenConnor/Package-Delivery-Application-Data-Structures-and-Algorithms-Demo-">Package Delivery Application</a> - Demonstrating data structures and algorithms in the context of a delivery routing application.</li>
 </ul>
 
 <p>🔍 Always exploring new ways to strengthen security. Let’s connect and collaborate!</p>
+
+
 
  
   

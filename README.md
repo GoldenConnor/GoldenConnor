@@ -25,4 +25,6 @@ ITIL 4 Foundation Certificate in IT Service Management Certificate Number: GR671
 
 ISC2 SSCP https://www.credly.com/badges/e8e06efd-a5d9-49c6-a48f-c9f06abfbb36/linked_in_profile
 
+LPI Linux Essentials https://cs.lpi.org/caf/Xamman/certification/verify/LPI000600078/w6vgxgzttk
+
 

@@ -23,4 +23,6 @@ AWS Cerified Cloud Practitioner https://www.credly.com/badges/8c1eb462-e666-41a9
 
 ITIL 4 Foundation Certificate in IT Service Management Certificate Number: GR671587896GC
 
+ISC2 SSCP https://www.credly.com/badges/e8e06efd-a5d9-49c6-a48f-c9f06abfbb36/linked_in_profile
+
 
